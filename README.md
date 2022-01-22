@@ -26,3 +26,13 @@ Como esta por defecto y como quedaria:
 
 
 Simple verdad!!! :smile: :smile: :smile:
+
+### Eliminar el modo baner de nuesta app ###
+
+para esto solo tenemso que agregar la siguiente linea de código:
+
+```dart
+     debugShowCheckedModeBanner: false,
+```
+a esto me refiero :smile:
+![flutter-and-dart-tips](/screenshot/ti1.png)
