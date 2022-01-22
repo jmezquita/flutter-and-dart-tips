@@ -34,5 +34,7 @@ para esto solo tenemso que agregar la siguiente linea de código:
 ```dart
      debugShowCheckedModeBanner: false,
 ```
-a esto me refiero :smile:
+
+Show  :smile:
+
 ![flutter-and-dart-tips](/screenshot/tip1.png)
