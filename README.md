@@ -35,4 +35,4 @@ para esto solo tenemso que agregar la siguiente linea de código:
      debugShowCheckedModeBanner: false,
 ```
 a esto me refiero :smile:
-![flutter-and-dart-tips](/screenshot/ti1.png)
+![flutter-and-dart-tips](/screenshot/tip1.png)
