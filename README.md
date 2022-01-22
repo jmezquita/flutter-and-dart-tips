@@ -25,4 +25,4 @@ Como esta por defecto y como quedaria:
 ![flutter-and-dart-tips](/screenshot/tip.png)
 
 
-Simple verdad!!!
+Simple verdad!!! :smile: :smile: :smile:
