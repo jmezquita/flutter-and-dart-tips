@@ -8,7 +8,7 @@ Aquí iré subiendo en un redme todos los **tips** conforme los valla aprendiend
 
 ### Eliminar la diferencia de color entre el statubar y el app bar en Android ###
 
-importa el paquete de flutte service
+import el paquete de flutte service
 ```dart
 import 'package:flutter/services.dart';
 ```
@@ -20,6 +20,9 @@ Agrega este código en void main()
       statusBarBrightness: Brightness.light));
 ```
 
+Como esta por defecto y como quedaria:
+
+![flutter-and-dart-tips](/screenshot/tip.png)
 
 
-![flutter-and-dart-tips](/screenshot/tip1.png)
+Simple verdad!!!
