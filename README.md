@@ -13,7 +13,7 @@ import el paquete de flutte service
 import 'package:flutter/services.dart';
 ```
 
-Agrega este código en void main() 
+Agrega este código en el main 
 ```dart
   SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
       statusBarColor: Colors.transparent,
